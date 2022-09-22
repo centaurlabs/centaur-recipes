@@ -1,0 +1,9 @@
+imantics==0.1.12
+lxml==4.9.1
+numpy==1.23.3
+opencv-python==4.6.0.66
+Pillow==9.2.0
+Shapely==1.8.4
+xmljson==0.2.1
+jupyter==1.00
+matplotlib==3.6.0
