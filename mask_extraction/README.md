@@ -1,3 +1,3 @@
 # Mask Extraction
 
-![Alt text](/example/output/example_mask_overlay.png?raw=true "Mask Extraction and Overlay")
+![Mask Extraction and Overlay](example/output/example_mask_overlay.png?raw=false "Mask Extraction and Overlay")
