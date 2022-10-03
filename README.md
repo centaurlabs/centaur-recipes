@@ -1,27 +1,26 @@
 ![logo](assets/logo.png)
 
-# centaur-recipes: Centaur's public repository for data pre-processing recipes
+# centaur-recipes: Centaur's public repository for data pre-processing code recipes
 
 
 ## Summary
 
 This repository contains code snippets you may integrate with your scripts to 
-process your data before sending it to Centaur. Some recipes may be combined 
-or used sequentially.
+process your data before sending it to Centaur Labs. Some recipes might need to be used sequentially.
 
-### The current recpies available are:
-* [Mask to wkt](mask_extraction)
+### The code recpies currently available are:
+* [Mask-to-WKT](mask_extraction)
 
 ## Installation
 
 The recipes in this repository require Python 3.9+ to run. You may install 
-python from: https://www.python.org/downloads/. Generally each recipe folder 
+python from: https://www.python.org/downloads/. Generally, each recipe folder 
 will contain specific instructions on how to install and use the recipe. Below
 you can find instructions on how to setup a virtual environment as well as how
-to use one with a jupyter notebook.
+to use one with a Jupyter notebook.
 
 ### Virtual environment
-After you've downloaded a recipe and any associated files, It is highly 
+After you've downloaded a recipe and any associated files, it is highly 
 recommended creating a new virtual environment for the script you will write.
 
 To create a virtual environment using the default python virtual environment manger:
@@ -38,7 +37,7 @@ To create a virtual environment using the default python virtual environment man
 
 #### Installing Requirements and Running the Notebook
 
-For recipes that are jupyter notebooks, or if you are just working in one
+For recipes that are Jupyter notebooks, or if you are just working in one
 perform these additional steps to ensure the notebook is using the correct
 virtual environment and installed packages. Some IDEs may handle selecting the
 correct virtual environment for you, in which case you only need to do step 1.
@@ -47,7 +46,7 @@ correct virtual environment for you, in which case you only need to do step 1.
    from the terminal or command prompt.
 2. Run `python -m ipykernel install --user --name env_name` where `env_name`
    is the name of the virtual environment you made in the previous section.
-3. Now start the jupyter notebook with `jupyter notebook binary_mask_to_wkt_json.ipynb`
+3. Now start the Jupyter notebook with `jupyter notebook binary_mask_to_wkt_json.ipynb`
    The notebook should open in your default browser.
 4. In the top toolbar click on `Kernel` and then select `Change kernel`.
 5. Select the kernel that has the same name as your virtual environment.
