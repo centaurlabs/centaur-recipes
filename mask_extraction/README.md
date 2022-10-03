@@ -9,5 +9,5 @@ it should be converted to centaur coordinates and any invalid geometries should
 be fixed or removed. You may use the recipe (@TODO) for this step.
 
 ### Installation
-No special installtion steps required. Follow the virtual environment setup on
+No special installation steps required. Follow the virtual environment setup on
 the main repository page and then follow the steps in the notebook.
