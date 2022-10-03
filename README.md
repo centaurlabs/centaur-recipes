@@ -8,8 +8,8 @@
 This repository contains code snippets you may integrate with your scripts to 
 process your data before sending it to Centaur Labs. Some recipes might need to be used sequentially.
 
-### The code recpies currently available are:
-* [Mask-to-WKT](mask_extraction)
+### The code recipes currently available are:
+* [Mask Extraction](mask_extraction)
 
 ## Installation
 
