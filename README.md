@@ -35,19 +35,20 @@ To create a virtual environment using the default python virtual environment man
 4. To deactivate the virtual environment you can type `deactivate` in the 
    terminal or command prompt
 
-#### Installing Requirements and Running the Notebook
+#### Installing Requirements and Running a Notebook
 
 For recipes that are Jupyter notebooks, or if you are just working in one
 perform these additional steps to ensure the notebook is using the correct
 virtual environment and installed packages. Some IDEs may handle selecting the
 correct virtual environment for you, in which case you only need to do step 1.
 
-1. With the environment activated run `pip install -r requirements.txt`
+1. With the environment activated, install jupyter by running `pip install jupyter`
    from the terminal or command prompt.
-2. Run `python -m ipykernel install --user --name env_name` where `env_name`
+2. Then run `pip install -r requirements.txt`
+3. Run `python -m ipykernel install --user --name env_name` where `env_name`
    is the name of the virtual environment you made in the previous section.
-3. Now start the Jupyter notebook with `jupyter notebook binary_mask_to_wkt_json.ipynb`
+4. Now start the Jupyter notebook with `jupyter notebook path/to/notebook.ipynb`
    The notebook should open in your default browser.
-4. In the top toolbar click on `Kernel` and then select `Change kernel`.
-5. Select the kernel that has the same name as your virtual environment.
-6. Now you may follow any remaining instructions in the notebook.
+5. In the top toolbar click on `Kernel` and then select `Change kernel`.
+6. Select the kernel that has the same name as your virtual environment.
+7. Now you may follow any remaining instructions in the notebook.
