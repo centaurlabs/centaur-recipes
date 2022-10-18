@@ -4,11 +4,12 @@
 
 ## Summary
 The code snippet in the notebook can be used to convert a WKT representation of
-the geometries to a grayscale mask image. Note that before the WKT is inserted
-it should be converted from centaur coordinates to absolute coordinates and any 
-invalid geometries should be fixed or removed. 
-You may use the recipe (@TODO) for this step.
+the geometries to a grayscale mask image. Note that the script expects the WKT 
+to be formatted with absolute coordinates. Additionally, any invalid geometries 
+should be fixed or removed. 
+You may use the recipes for coordinate conversion (@TODO:link recipe) and 
+fixing invalid geometries (@TODO:link recipe) for these steps.
 
 ### Installation
 No special installation steps required. Follow the virtual environment setup on
-the main repository page and then follow the steps in the notebook.
+[the main repository page](../README.md#installation) and then follow the steps in the notebook.
