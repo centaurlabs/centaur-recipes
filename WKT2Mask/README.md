@@ -11,4 +11,5 @@ You may use the recipes for coordinate conversion (@TODO:link recipe) and
 fixing invalid geometries (@TODO:link recipe) for these steps.
 
 ### Installation
-Follow the usual [installation instructions](../README.md).
+No special installation steps required. Follow the virtual environment setup on
+[the main repository page](../README.md#installation) and then follow the steps in the notebook.
