@@ -10,4 +10,4 @@ be fixed or removed. You may use the recipe (@TODO) for this step.
 
 ### Installation
 No special installation steps required. Follow the virtual environment setup on
-the main repository page and then follow the steps in the notebook.
+[the main repository page](../README.md#installation) and then follow the steps in the notebook.

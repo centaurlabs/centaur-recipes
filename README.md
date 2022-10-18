@@ -17,7 +17,7 @@ process your data before sending it to Centaur Labs. Some recipes might need to 
 The recipes in this repository require Python 3.9+ to run. You may install 
 python from: https://www.python.org/downloads/. Generally, each recipe folder 
 will contain specific instructions on how to install and use the recipe. Below
-you can find instructions on how to setup a virtual environment as well as how
+you can find instructions on how to set up a virtual environment as well as how
 to use one with a Jupyter notebook.
 
 ### Virtual environment
@@ -43,13 +43,13 @@ perform these additional steps to ensure the notebook is using the correct
 virtual environment and installed packages. Some IDEs may handle selecting the
 correct virtual environment for you, in which case you only need to do step 1.
 
-1. With the environment activated, install jupyter by running `pip install jupyter`
-   from the terminal or command prompt.
-2. Then run `pip install -r requirements.txt`
-3. Run `python -m ipykernel install --user --name env_name` where `env_name`
-   is the name of the virtual environment you made in the previous section.
-4. Now start the Jupyter notebook with `jupyter notebook path/to/notebook.ipynb`
+1. With the environment activated, run `pip install -r requirements.txt`
+   from the terminal or command prompt. This should install jupyter as well as 
+   the other required packages.
+2. Run `python -m ipykernel install --user --name env_name` where `env_name`
+   is the name of the currently activated virtual environment.
+3. Now start the Jupyter notebook with `jupyter notebook path/to/notebook.ipynb`
    The notebook should open in your default browser.
-5. In the top toolbar click on `Kernel` and then select `Change kernel`.
-6. Select the kernel that has the same name as your virtual environment.
-7. Now you may follow any remaining instructions in the notebook.
+4. In the top toolbar click on `Kernel` and then select `Change kernel`.
+5. Select the kernel that has the same name as your virtual environment.
+6. Now you may follow any remaining instructions in the notebook.
