@@ -16,7 +16,7 @@ process your data before sending it to Centaur Labs. Some recipes might need to 
 The recipes in this repository require Python 3.9+ to run. You may install 
 python from: https://www.python.org/downloads/. Generally, each recipe folder 
 will contain specific instructions on how to install and use the recipe. Below
-you can find instructions on how to setup a virtual environment as well as how
+you can find instructions on how to set up a virtual environment as well as how
 to use one with a Jupyter notebook.
 
 ### Virtual environment
