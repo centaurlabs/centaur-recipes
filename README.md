@@ -11,6 +11,7 @@ process your data before sending it to Centaur Labs. Some recipes might need to 
 ### The code recipes currently available are:
 * [Mask2WKT](Mask2WKT)
 * [WKT2Mask](WKT2Mask)
+* [audio_to_mel_spectrogram](audio_to_mel_spectrogram)
 
 ## Installation
 
