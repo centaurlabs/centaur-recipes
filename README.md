@@ -9,8 +9,8 @@ This repository contains code snippets you may integrate with your scripts to
 process your data before sending it to Centaur Labs. Some recipes might need to be used sequentially.
 
 ### The code recipes currently available are:
-* [Mask2WKT](Mask2WKT)
-* [WKT2Mask](WKT2Mask)
+* [mask_to_wkt](mask_to_wkt)
+* [wkt_to_mask](wkt_to_mask)
 * [audio_to_mel_spectrogram](audio_to_mel_spectrogram)
 
 ## Installation
