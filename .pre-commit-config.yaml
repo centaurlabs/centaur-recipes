@@ -4,6 +4,9 @@ repos:
       hooks:
           - id: nbqa-black
           - id: nbqa-mypy
+            args: 
+              - --ignore-missing-imports
+              - --install-types
           - id: nbqa-flake8
     - repo: https://github.com/kynan/nbstripout
       rev: 0.6.1
