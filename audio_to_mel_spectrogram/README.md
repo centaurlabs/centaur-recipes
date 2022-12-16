@@ -3,7 +3,7 @@
 ![Mel Spectrogram of a Phonocardiogram of a Pregnant Woman](example/output/example_heart_beat.png "Mask Extraction and Overlay")
 
 ## Summary
-The code snippet in the notebook can be used to generate a mel spectrogram from an audio file. Most audio file formats are supported. The spectrogram can also be saved in most image formats.
+The code snippet in the notebook can be used to generate a mel spectrogram from an audio file. Most audio file formats are supported. The spectrogram can also be saved in most image formats. You may save the spectrogram as an image by itself or with accompanying axes and labels.
 
 ### Installation
 No special installation steps required. Follow the virtual environment setup on
