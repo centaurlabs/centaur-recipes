@@ -1,8 +1,6 @@
 # Mel Spectrogram Generation
 
-<video>
-  <source src="example/output/example_heart_beat.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/97038296/208191489-b67932aa-d92f-487e-a273-4d607261745d.mp4
 
 ## Summary
 The code snippet in the notebook can be used to create a video using the supplied audio file. A still background image may be optionally provided. You may combine this recipe with the [audio_to_mel_spectrogram](../audio_to_mel_spectrogram) recipe to create a video with the audio over an image of the audio's mel spectrogram. Most audio, video, and image file formats are supported.
