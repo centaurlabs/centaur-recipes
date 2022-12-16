@@ -5,7 +5,7 @@
 </video>
 
 ## Summary
-The code snippet in the notebook can be used to create a video with the supplied audio file. A still background image may be optionally provided. You may combine this recipe with the [audio_to_mel_spectrogram](../audio_to_mel_spectrogram) recipe to create a video with the audio over an image of the audio's mell spectrogram. Most audio, video, and image file formats are supported.
+The code snippet in the notebook can be used to create a video using the supplied audio file. A still background image may be optionally provided. You may combine this recipe with the [audio_to_mel_spectrogram](../audio_to_mel_spectrogram) recipe to create a video with the audio over an image of the audio's mel spectrogram. Most audio, video, and image file formats are supported.
 
 ### Installation
 No special installation steps required. Follow the virtual environment setup on
