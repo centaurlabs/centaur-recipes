@@ -12,6 +12,7 @@ process your data before sending it to Centaur Labs. Some recipes might need to 
 * [mask_to_wkt](mask_to_wkt)
 * [wkt_to_mask](wkt_to_mask)
 * [audio_to_mel_spectrogram](audio_to_mel_spectrogram)
+* [audio_to_video](audio_to_video)
 
 ## Installation
 
