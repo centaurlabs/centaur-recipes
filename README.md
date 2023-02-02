@@ -14,6 +14,7 @@ process your data before sending it to Centaur Labs. Some recipes might need to 
 * [audio_to_mel_spectrogram](audio_to_mel_spectrogram)
 * [audio_to_video](audio_to_video)
 * [entity_highlights](entity_highlights)
+* [multi_paragraph_text](multi_paragraph_text)
 
 ## Installation
 
