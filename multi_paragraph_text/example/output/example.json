@@ -1,6 +1,6 @@
 [
   {
     "origin":0,
-    "html":"<html>\n <body>\n  <p><b>section_1:<\/b> here is text for the first section<\/p>\n  <p><b>section_2:<\/b> and some text for the second section<\/p>\n  <p><b>section_3:<\/b> finally, text for the last section<\/p>\n <\/body>\n<\/html>"
+    "html":"<html>\n <body>\n  <p><b>section_1:<\/b><br>here is text for the first section<\/p>\n  <p><b>section_2:<\/b><br>and some text for the second section<\/p>\n  <p><b>section_3:<\/b><br>finally, text for the last section<\/p>\n <\/body>\n<\/html>"
   }
 ]
