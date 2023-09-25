@@ -1,2 +1,4 @@
-numpy==1.26.0
-opencv-python==4.8.0.76
+ipykernel
+jupyter
+numpy
+opencv-python
