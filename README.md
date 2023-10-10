@@ -16,6 +16,7 @@ process your data before sending it to Centaur Labs. Some recipes might need to 
 * [entity_highlights](entity_highlights)
 * [multi_paragraph_text](multi_paragraph_text)
 * [video_to_image](video_to_image)
+* [dicom_to_image](dicom_to_image)
 
 ## Installation
 
