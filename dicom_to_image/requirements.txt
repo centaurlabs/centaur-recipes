@@ -1,0 +1,6 @@
+ipykernel
+jupyter
+pydicom
+numpy
+opencv-python
+Pillow
