@@ -1,6 +1,6 @@
 # Mask Extraction
 
-![Mask Extraction and Overlay](example/output/example_mask_overlay.png?raw=false "Mask Extraction and Overlay") 
+![Mask Extraction and Overlay](example/output/example_mask_overlay.png?raw=false "Mask Extraction and Overlay")
 
 ## Summary
 The code snippet in the notebook can be used to extract a WKT representation of
