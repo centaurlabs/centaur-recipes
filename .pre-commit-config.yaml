@@ -1,6 +1,6 @@
 repos:
     - repo: https://github.com/nbQA-dev/nbQA
-      rev: 1.5.3
+      rev: 1.8.5
       hooks:
           - id: nbqa-black
           - id: nbqa-mypy
@@ -10,7 +10,7 @@ repos:
             - --non-interactive
           - id: nbqa-flake8
     - repo: https://github.com/kynan/nbstripout
-      rev: 0.6.1
+      rev: 0.7.1
       hooks:
           - id: nbstripout
             args:
@@ -30,4 +30,3 @@ repos:
                 cell.metadata.code_folding
                 cell.metadata.tags
                 cell.metadata.init_cell
-
