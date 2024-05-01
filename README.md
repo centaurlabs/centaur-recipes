@@ -9,14 +9,18 @@ This repository contains code snippets you may integrate with your scripts to
 process your data before sending it to Centaur Labs. Some recipes might need to be used sequentially.
 
 ### The code recipes currently available are:
-* [mask_to_wkt](mask_to_wkt)
-* [wkt_to_mask](wkt_to_mask)
+* [abs_to_wkt](abs_to_wkt)
+* [add_tracking_line_to_plot](add_tracking_line_to_plot)
 * [audio_to_mel_spectrogram](audio_to_mel_spectrogram)
 * [audio_to_video](audio_to_video)
+* [cocojson_to_csv](cocojson_to_csv)
+* [coordinate_converter](coordinate_converter)
+* [dicom_to_image](dicom_to_image)
 * [entity_highlights](entity_highlights)
+* [mask_to_wkt](mask_to_wkt)
 * [multi_paragraph_text](multi_paragraph_text)
 * [video_to_image](video_to_image)
-* [dicom_to_image](dicom_to_image)
+* [wkt_to_mask](wkt_to_mask)
 
 ## Installation
 
