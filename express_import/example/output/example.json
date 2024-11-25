@@ -1,0 +1,9 @@
+{
+    "import_id": 5000,
+    "project_id": 2000,
+    "source_type": "s3",
+    "source": "s3://api-test/dicom/dicom_data/",
+    "status": "in_progress",
+    "created_at": "2024-11-25T16:42:28.357457+00:00",
+    "updated_at": "2024-11-25T16:42:28.357457+00:00"
+}

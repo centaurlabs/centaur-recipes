@@ -1,0 +1,7 @@
+{
+    "email": "test@acme.com",
+    "api_key" : "111AAA222bbb333cCc444d==",
+    "api_password" : "ZZZ999yyy888XxX777wWw6==",
+    "s3_uri" : "s3://s3_uri",
+    "s3_region" : "us-east-2"
+}
