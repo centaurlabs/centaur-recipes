@@ -1,8 +1,0 @@
-matplotlib
-numpy
-Pillow
-Shapely
-jupyter
-ipykernel
-pydicom
-highdicom
