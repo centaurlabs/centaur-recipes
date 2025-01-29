@@ -1,0 +1,8 @@
+matplotlib
+numpy
+Pillow
+Shapely
+jupyter
+ipykernel
+pydicom
+highdicom <=0.23.1
