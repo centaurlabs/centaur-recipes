@@ -6,6 +6,7 @@ If you have a list of CIRCULARSTRING representations of circular arcs,
 this recipe will help you extract and compute the center point for each geometry.
 
 ### Example Input
+You can learn more about the circle geometry format [here](https://docs.centaurlabs.com/docs/wkt-format#circles) 
 `CIRCULARSTRING (48.3160321 40.0467466, 50.1013345 40.0467466, 48.3160321 40.0467466)`
 - First Point (Start): (48.3160321, 40.0467466)
 - Second Point (Middle): (50.1013345, 40.0467466)
