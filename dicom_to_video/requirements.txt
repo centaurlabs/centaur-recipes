@@ -3,4 +3,3 @@ jupyter
 pydicom
 numpy
 opencv-python
-Pillow
