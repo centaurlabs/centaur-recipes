@@ -1,0 +1,5 @@
+ipykernel
+jupyter
+numpy
+requests
+tifffile

@@ -19,6 +19,7 @@ process your data before sending it to Centaur Labs. Some recipes might need to 
 * [entity_highlights](entity_highlights)
 * [mask_to_wkt](mask_to_wkt)
 * [multi_paragraph_text](multi_paragraph_text)
+* [upload_mask_prelabels](upload_mask_prelabels)
 * [video_to_image](video_to_image)
 * [wkt_to_mask](wkt_to_mask)
 
