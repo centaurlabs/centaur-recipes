@@ -1,4 +1,4 @@
 ipykernel
 jupyter
 shapely
-Pillow
+Pillow==12.3.0
