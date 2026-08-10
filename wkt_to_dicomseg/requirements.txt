@@ -1,6 +1,6 @@
 matplotlib
 numpy
-Pillow
+Pillow==12.3.0
 Shapely
 jupyter
 ipykernel

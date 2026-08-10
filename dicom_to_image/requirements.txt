@@ -3,4 +3,4 @@ jupyter
 pydicom
 numpy
 opencv-python
-Pillow
+Pillow==12.3.0
