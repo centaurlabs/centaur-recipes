@@ -5,4 +5,4 @@ Shapely
 jupyter
 ipykernel
 pydicom
-highdicom <=0.28.2
+highdicom <=0.29.0
